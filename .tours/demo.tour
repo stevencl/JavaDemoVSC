@@ -1,0 +1,22 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Demo",
+  "steps": [
+    {
+      "file": "src/main/java/com/example/App.java",
+      "description": "This is the first step in the tour. It points to a line of code in a file.",
+      "line": 11
+    },
+    {
+      "file": "src/main/java/com/example/App.java",
+      "description": "This is the next step in the tour. It points to a different line in the same file.",
+      "line": 13
+    },
+    {
+      "file": "src/main/java/com/example/Simple.java",
+      "description": "This is the third step in the tour. It points to a line of code in a different file.",
+      "line": 12
+    }
+  ],
+  "isPrimary": true
+}
